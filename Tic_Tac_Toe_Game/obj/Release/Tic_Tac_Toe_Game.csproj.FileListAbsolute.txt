@@ -1,0 +1,10 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\bin\Release\Tic_Tac_Toe_Game.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\bin\Release\Tic_Tac_Toe_Game.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\bin\Release\Tic_Tac_Toe_Game.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.Tic_Tac_Toe_Game.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Codes\C#\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game\obj\Release\Tic_Tac_Toe_Game.pdb

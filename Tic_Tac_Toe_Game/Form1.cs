@@ -12,7 +12,6 @@ namespace Tic_Tac_Toe_Game
 {
     public partial class Tic_Tac_Toe_Game : Form
     {
-        //Boolean verify;
         int addOne;
         Boolean xTurn = true;
         int round = 0;

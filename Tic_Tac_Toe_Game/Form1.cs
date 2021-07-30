@@ -140,7 +140,7 @@ namespace Tic_Tac_Toe_Game
 
             //======= para O =======
 
-            if (button1.Text == "0" && button2.Text == "O" && button3.Text == "O")
+            if (button1.Text == "O" && button2.Text == "O" && button3.Text == "O")
             {
                 button1.BackColor = Color.Firebrick;
                 button2.BackColor = Color.Firebrick;
